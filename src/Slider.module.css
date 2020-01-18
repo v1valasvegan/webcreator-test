@@ -1,0 +1,12 @@
+.render-error {
+  height: 100%;
+  display: flex;
+  background-color: limegreen;
+  justify-content: center;
+  align-items: center;
+}
+
+.m-20 {
+  margin-right: 20px;
+  margin-left: 20px;
+}
