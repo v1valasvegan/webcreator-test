@@ -1,0 +1,81 @@
+.mb-40 {
+  margin-bottom: 40px;
+}
+
+.viewbox {
+  width: 100%;
+  overflow: hidden;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+.stripe {
+  position: relative;
+  transition: all 0.5s ease-in-out;
+  display: flex;
+  height: 100%;
+}
+
+.heading {
+  color: #323232;
+  margin-bottom: 25px;
+}
+
+img {
+  border-radius: 5px;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  width: 32px;
+  height: 32px;
+  border: none;
+  background-color: inherit;
+}
+
+.button:hover, .button:active {
+  cursor: url('./img/pointer.png'), auto;
+}
+
+.button-previous {
+  background-image: url('./img/arrow-previous.png');
+}
+
+.button-previous:hover {
+  background-image: url('./img/arrow-previous-hover.png');
+}
+
+.button-next {
+  background-image: url('./img/arrow-next.png');
+}
+
+.button-next:hover {
+  background-image: url('./img/arrow-next-hover.png');
+}
+
+.dots {
+  display: flex;
+  width: 84px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  background-image: url('./img/dot.png');
+}
+
+.dot:hover {
+  background-image: url('./img/dot-hover.png');
+}

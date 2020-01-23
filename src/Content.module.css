@@ -1,0 +1,19 @@
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.heading {
+  color: #323232;
+  margin-bottom: 12px;
+  font-size: 24px;
+}
+
+p {
+  width: 525px;
+  line-height: 1.4;
+}
+
+input[type=checkbox] {
+  margin-bottom: 100px;
+}
+

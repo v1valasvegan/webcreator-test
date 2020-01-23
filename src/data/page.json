@@ -4,8 +4,12 @@
         "metadata": {
             "title": "Галерея",
             "images": [
-                "url/to/img1.jpg", "url/to/img2.jpg", "url/to/img3.jpg", "url/to/img4.jpg",
-                "url/to/img5.jpg", "url/to/img6.jpg", "url/to/img7.jpg", "url/to/img8.jpg"
+                "https://www.toptal.com/designers/subtlepatterns/patterns/pixel-heart.png",
+                "https://www.toptal.com/designers/subtlepatterns/patterns/repeated-square.png",
+                "https://www.toptal.com/designers/subtlepatterns/patterns/canadian-dollar.png",
+                "https://www.toptal.com/designers/subtlepatterns/patterns/let-there-be-sun.png",
+                "https://www.toptal.com/designers/subtlepatterns/patterns/vintage-wallpaper.png",
+                "https://www.toptal.com/designers/subtlepatterns/patterns/blue-snow.png"
             ],
             "slidesPerView": 3
         }
