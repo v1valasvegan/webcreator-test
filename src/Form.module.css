@@ -41,6 +41,6 @@ a {
 .form-control:focus {
   box-shadow: none;
   border: 1px solid;
-  border-color: none;
+  /* border-color: none; */
   border-image: linear-gradient(to right bottom, #93E08C, #fff) 1;
 }
